@@ -1,0 +1,12 @@
+{
+  "name": "secucard-connect-nodejs-client-opidemo",
+  "version": "0.0.1",
+  "private": true,
+  "description": "Sample to simulate secucard connect payment device (OPI)",
+  "main": "./lib/main",
+  "author": "Nicolas Wild <n.wild@secucard.de>",
+  "license": "BSD-2-Clause",
+  "dependencies": {
+    "hipack": "1.0.4"
+  }
+}
