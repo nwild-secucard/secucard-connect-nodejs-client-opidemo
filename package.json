@@ -7,6 +7,7 @@
   "author": "Nicolas Wild <n.wild@secucard.de>",
   "license": "BSD-2-Clause",
   "dependencies": {
-    "hipack": "1.0.4"
+    "hipack": "1.0.4",
+    "iconv": "2.1.6"
   }
 }

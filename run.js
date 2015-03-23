@@ -55,16 +55,6 @@ client.open();
 opiclient.startDeviceListener();
 
 
-// DEMO TEST
-/*
-setTimeout(function() {
-    opiclient.executeCardPayment(1.45, function (result) {
-        console.log(result);
-    });
-
-}, 10000)
-*/
-
 
 /*
  * Safe exit handler
