@@ -9,9 +9,9 @@ var config = {
     debug: false,
     client_id: 'f47b1f2306b81870b7873c6349ec945e',
     client_secret: '60fef60734609b5e496538179d8b36e4ca2cb4a8b139d5c4be36be1c7d99875c',
-    host: 'core-dev10.secupay-ag.de',
-    oauth_path: '/app.core.connector/oauth/token',
-    device_uuid: '/vendor/ccv/serial/dummyserial9543646'
+    host: 'connect.secucard.com',
+    oauth_path: '/oauth/token',
+    device_uuid: '/vendor/ccv/serial/dummyserial0815'
 };
 
 /*

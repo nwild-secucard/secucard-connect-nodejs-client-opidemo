@@ -7,16 +7,16 @@ var Log = require('./lib/log.js'),
 
 // Config
 var config = {
-    debug: true,
+    debug: false,
     client_id: 'f47b1f2306b81870b7873c6349ec945e',
     client_secret: '60fef60734609b5e496538179d8b36e4ca2cb4a8b139d5c4be36be1c7d99875c',
     app_id: 'APP_WC6Z65GJK2Y7N2QQR5GQGR0P9K8YAA',
-    host: 'core-dev10.secupay-ag.de',
+    host: 'connect.secucard.com',
     stomp_port: 61614,
     stomp_ssl: true,
     stomp_heartbeat: 30, // in seconds
-    oauth_path: '/app.core.connector/oauth/token',
-    refreshToken: '271331ce99a6506f1fb6d9493977c667eca4af6b',
+    oauth_path: '/oauth/token',
+    refreshToken: 'a73227689b2481afb4eebd6cb385ef8021e5c37a',
     deviceserver_port: 20007,
     opidevice_host: '192.168.178.63',
     //opidevice_host: '127.0.0.1',
