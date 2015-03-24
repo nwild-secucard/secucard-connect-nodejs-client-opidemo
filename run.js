@@ -15,10 +15,11 @@ var config = {
     stomp_port: 61614,
     stomp_ssl: true,
     stomp_heartbeat: 30, // in seconds
+    heartbeat_alive_timeout: 70, // in seconds
     oauth_path: '/oauth/token',
     refreshToken: 'a73227689b2481afb4eebd6cb385ef8021e5c37a',
     deviceserver_port: 20007,
-    opidevice_host: '192.168.178.63',
+    opidevice_host: '192.168.137.225',
     //opidevice_host: '127.0.0.1',
     opidevice_port: 20002
 };
