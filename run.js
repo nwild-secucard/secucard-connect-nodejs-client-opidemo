@@ -19,7 +19,7 @@ var config = {
     oauth_path: '/oauth/token',
     refreshToken: 'a73227689b2481afb4eebd6cb385ef8021e5c37a',
     deviceserver_port: 20007,
-    opidevice_host: '192.168.1.101',
+    opidevice_host: '192.168.1.102',
     //opidevice_host: '127.0.0.1',
     opidevice_port: 20002
 };
