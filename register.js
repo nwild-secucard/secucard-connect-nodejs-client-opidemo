@@ -11,7 +11,7 @@ var config = {
     client_secret: '60fef60734609b5e496538179d8b36e4ca2cb4a8b139d5c4be36be1c7d99875c',
     host: 'connect.secucard.com',
     oauth_path: '/oauth/token',
-    device_uuid: '/vendor/ccv/serial/dummyserial0815'
+    device_uuid: '/vendor/ccv/serial/istdochegal'
 };
 
 /*
